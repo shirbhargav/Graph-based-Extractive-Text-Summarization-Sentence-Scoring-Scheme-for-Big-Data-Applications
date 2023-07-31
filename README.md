@@ -28,12 +28,10 @@ Each article consists of multiple paragraphs and each paragraph starts with a se
 
 Sample of first 5000 article and Sentence CSVs and Reference CSV  can be found in .
 
-Full Dataset Link: [Link](https://twitter.com/)
+Full Dataset Link: [Link](https://drive.google.com/file/d/1vK2YGuZT9WoX1hntUUcqpkRzy6Cq9_A_/view?usp=drive_link)
 
 Repo Link: [Link](https://github.com/mahnazkoupaee/WikiHow-Dataset)
 ## Deployment
-
-This project is used by the following companies:
 
 - Extract the Sentance CSV and Reference Summary CSV from the 
 - Import CSVs to Apache Spark
