@@ -33,9 +33,9 @@ Full Dataset Link: [Link](https://drive.google.com/file/d/1vK2YGuZT9WoX1hntUUcqp
 Repo Link: [Link](https://github.com/mahnazkoupaee/WikiHow-Dataset)
 ## Deployment
 
-- Extract the Sentance CSV and Reference Summary CSV from the 
+- Extract the Sentance CSV and Reference Summary CSV using WikiHow Topic Extractor.ipynb
 - Import CSVs to Apache Spark
-- Use Spark based tables to generate summary from the 
+- Use Spark based tables to generate summary from using Extractive Text Summarization.ipynb
 
 ## Requirement:
 Hardware:
