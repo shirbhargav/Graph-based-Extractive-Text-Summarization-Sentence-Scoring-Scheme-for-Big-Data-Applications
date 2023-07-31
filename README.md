@@ -26,7 +26,7 @@ For this project we have used 'WikiHow Dataset'. The dataset is introduced in ht
 Each article consists of multiple paragraphs and each paragraph starts with a sentence summarizing it. By merging the paragraphs to form the article and the paragraph outlines to form the summary, the resulting version of the dataset contains more than 200,000 long-sequence pairs.
 
 
-Sample of first 5000 article and Sentence CSVs and Reference CSV  can be found in .
+Sample of first 5000 article and Sentence CSVs and Reference CSV  can be found in Sample Dataset folder.
 
 Full Dataset Link: [Link](https://drive.google.com/file/d/1vK2YGuZT9WoX1hntUUcqpkRzy6Cq9_A_/view?usp=drive_link)
 
